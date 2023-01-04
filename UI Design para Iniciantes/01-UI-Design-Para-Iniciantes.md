@@ -92,7 +92,7 @@
 
   Processo de Design Thinking d.school - Stanford
   
-##0105 Design e Desenho
+## 0105 Design e Desenho
   Design e Desenho
   Você não precisa saber desenhar para trabalhar como designer. É uma habilidade que pode te ajudar, mas não é vital.
   Foco
