@@ -4,3 +4,10 @@
 
   ### Código
   O código deve ser criado com base no protótipo.
+
+## 0202 Instalar
+Figma
+
+O Figma funciona diretamente no browser, mas você pode também utilizá-lo como um aplicativo no seu computador.
+
+https://www.figma.com/
